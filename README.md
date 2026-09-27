@@ -1,5 +1,9 @@
 # pong-game
+
 A simple Pong game built with HTML, CSS, and JavaScript
+
+
+
 
 
 
@@ -8,7 +12,9 @@ A simple Pong game built with HTML, CSS, and JavaScript
 
 DOWNLOAD ZIP FILE AND EXTRACT FILE ANYWHERE 
 
+
 DOBLE CLICK ON INDEX.HTML 
+
 
 OPEN GAME IN YOUR BROWSER AND  PLAY......
 
